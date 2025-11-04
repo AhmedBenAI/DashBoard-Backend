@@ -28,7 +28,7 @@ The generated outputs are served via a simple REST API, which can be consumed by
 **Framework:** Flask-AppBuilder (Flask)  
 **Languages:** Python  
 **Libraries:** Pandas · NumPy · Scikit-Learn · Matplotlib / Plotly  
-**Environment:** Python 3.x  
+**Environment:** Python 3.9  
 
 ---
 
@@ -36,13 +36,13 @@ The generated outputs are served via a simple REST API, which can be consumed by
 
 ### 1️⃣ Install Dependencies
 
-```bash
+```
 pip install -r requirements.txt
 ```
 
 ### 2️⃣ Run the API Server
 
-```bash
+```
 cd AutoChartBackend
 python api.py
 ```
