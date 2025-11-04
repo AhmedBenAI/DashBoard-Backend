@@ -38,12 +38,14 @@ The generated outputs are served via a simple REST API, which can be consumed by
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 2️⃣ Run the API Server
 
 ```bash
 cd AutoChartBackend
 python api.py
+```
 
 Server will start on port **5000**.
 
